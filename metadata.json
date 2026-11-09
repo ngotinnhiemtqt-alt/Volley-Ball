@@ -1,0 +1,6 @@
+{
+  "name": "Bốc Thăm Thi Đấu PRO 2027",
+  "description": "Phần mềm bốc thăm chia bảng, đối đầu, số thứ tự, sơ đồ và lịch thi đấu thể thao chuyên nghiệp với màn hình trình chiếu LED và vận hành offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
